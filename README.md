@@ -8,7 +8,7 @@ out in front of the person.
 This project is used more as a joke than anything and is an 
 attempt to recreate this video:
 
-https://www.youtube.com/watch?v=0mv7OhXYThk
+
 
 Improvements:
 
